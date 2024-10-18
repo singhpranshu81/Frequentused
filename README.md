@@ -22,3 +22,5 @@ spring.jpa.show-sql = true
 #spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQLDialect
 
 server.port = 8082
+
+npx ng g guard Auth 
